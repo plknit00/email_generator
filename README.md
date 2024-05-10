@@ -1,5 +1,5 @@
 <H1>Email Generator</H1>
-<h3>Create a python script that generates common possible recruiter emails based upon their name and company.</h3>
+<h3>Create a python script that generates common possible recruiter emails based upon their name and company for job outreach purposes.</h3>
 <h3>Take in the following input from the user:</h3>
 <ol>
   <li>First Name</li>
