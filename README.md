@@ -6,7 +6,7 @@
   <li>Last Name</li>
   <li>company.ending</li>
   <ol>
-    <li>User must provide the email ending for the company because not all end in .org and may use abbreviations of the company name</li>
+    <li>User must provide the email ending for the company because not all end in .org or .com and may use abbreviations of the company name</li>
   </ol>
 </ol>
 <h3>For the name Sally Smith, who works for company.com, here are the most common email formats:</h3>
