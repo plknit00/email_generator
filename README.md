@@ -9,7 +9,7 @@
     <li>User must provide the email ending for the company because not all end in .org and may use abbreviations of the company name</li>
   </ol>
 </ol>
-<h3>For the name Sally Smith, who works for @company.com, here are the most common email formats:</h3>
+<h3>For the name Sally Smith, who works for company.com, here are the most common email formats:</h3>
 <ol>
   <li>SallySmith@company.com</li>
   <li>Sally.Smith@company.com</li>
