@@ -1,3 +1,4 @@
+#Prompts user to input the name of the recruiter along with the email domain
 def userInput():
 
     first_name = input("Enter the recruiter's first name: ")
@@ -6,7 +7,7 @@ def userInput():
     return first_name, last_name, email_domain
 
 
-
+#Creates email based on four different formats
 def createEmail(first, last, domain, email_list):
 
     format1 = str(first) + str(last) + "@" + str(domain)
@@ -24,7 +25,7 @@ def createEmail(first, last, domain, email_list):
 
 
 
-
+#Creates a list of the emails that are fenerated from the email function
 def main_function():
     info = userInput()
     email_list = []
